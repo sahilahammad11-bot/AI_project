@@ -18,6 +18,8 @@ A real-time face detection application built with Python and OpenCV, using a pre
 - Save captured frames as images with a single keypress
 - Lightweight and easy to run locally
 
+<img width="1135" height="712" alt="image" src="https://github.com/user-attachments/assets/ecb2699e-e415-4cfb-a3dd-d30437639b5d" />
+
 ---
 
 ## 🛠️ Tech Stack
